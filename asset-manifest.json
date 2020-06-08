@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-todoList/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-tutorial-todoList/static/js/main.7e6c1781.chunk.js",
+    "main.js.map": "/react-tutorial-todoList/static/js/main.7e6c1781.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-todoList/static/js/runtime-main.191c3261.js",
+    "runtime-main.js.map": "/react-tutorial-todoList/static/js/runtime-main.191c3261.js.map",
+    "static/js/2.8c3d6214.chunk.js": "/react-tutorial-todoList/static/js/2.8c3d6214.chunk.js",
+    "static/js/2.8c3d6214.chunk.js.map": "/react-tutorial-todoList/static/js/2.8c3d6214.chunk.js.map",
+    "index.html": "/react-tutorial-todoList/index.html",
+    "precache-manifest.7c66ae93863ac8957b07fb067ed5b4be.js": "/react-tutorial-todoList/precache-manifest.7c66ae93863ac8957b07fb067ed5b4be.js",
+    "service-worker.js": "/react-tutorial-todoList/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-tutorial-todoList/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8c3d6214.chunk.js.LICENSE.txt": "/react-tutorial-todoList/static/js/2.8c3d6214.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-tutorial-todoList/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.191c3261.js",
+    "static/js/2.8c3d6214.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7e6c1781.chunk.js"
+  ]
+}
